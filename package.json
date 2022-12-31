@@ -1,6 +1,23 @@
 {
   "name": "jay-web3-connect-modal",
-  "version": "0.10.0",
+  "version": "0.11.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayCogen44/jay-web3-connect-modal"
+  },
+  "keywords": [
+    "react",
+    "web3",
+    "metamask",
+    "modal",
+    "eth",
+    "ethereum",
+    "dapps",
+    "wallet",
+    "crypto"
+  ],
+  "author": "Jay Cogen <jaycog44@gmail.com>",
+  "license": "MIT",
   "private": false,
   "main": "dist/index.js",
   "babel": {
