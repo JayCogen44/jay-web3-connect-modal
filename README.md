@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jay-web3-connect-modal v0.1.0
 
 The J-Wallet modal is an easy way to allow visitors of your react project to
@@ -45,3 +46,6 @@ export default App;
 - MetaMask (supported)
 - Coinbase Wallet (coming soon)
 - Trust- Wallet (coming soon)
+=======
+# jay-web3-connect-modal
+>>>>>>> 6209bcf3afd969dc3555361df541359851cb749f
